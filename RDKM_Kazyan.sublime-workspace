@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Prox",
+				"font_Proxima_light"
+			],
+			[
+				"font_P",
+				"font_Proxima_normal"
+			],
+			[
+				"med",
+				"media query ipad\tipad"
+			],
+			[
+				"media",
+				"media landscape\tlandscape"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pure-u",
+				"pure-u-md-1-6"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"is",
+				"is__gray"
+			],
+			[
+				"xf",
+				"xfix_wrap_fix\t(app.css)"
+			],
+			[
+				"uk-height",
+				"uk-height-1-1 \tUIkit class"
+			],
+			[
+				"donation",
+				"donation-bubble"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"uk",
+				"uk-scope"
+			],
+			[
+				"mar",
+				"margin-top\t(app.css)"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"search",
+				"search_help"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"line",
+				"line-clamp"
+			],
+			[
+				"holder_",
+				"holder_layout_wrap\t(app.css)"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"text",
+				"text-decoration\t(app.css)"
+			],
+			[
+				"hol",
+				"holder_helpblock\t(app.css)"
+			],
+			[
+				"ban",
+				"bankorder@2x.png\tw:300 h:285"
+			],
+			[
+				"bank",
+				"bankorder@2x.png\tw:300 h:285"
+			],
+			[
+				"pay",
+				"payments_form"
+			],
+			[
+				"do",
+				"donation-epayment"
+			],
+			[
+				"bor",
+				"borderRadius"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border",
+				"borderColor"
+			],
+			[
+				"how",
+				"how_mutch"
+			],
+			[
+				"T",
+				"TableViewRow"
+			],
+			[
+				"font",
+				"Font.fontWeight"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"He",
+				"height"
+			],
+			[
+				"c-",
+				"c-basic\tBasic Comment"
+			],
+			[
+				"fo",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7604,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: desktop & laptop"
+			],
+			[
+				"snip",
+				"Snippet: desktop & laptop"
+			],
+			[
+				"pa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"BracketHighlighter: Documentation"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"bracketG",
+				"Preferences: BracketGuard Settings - Default"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				"e",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"appce",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"css",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 58.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ernestbrugger/Documents/RF_RDKM_Kazyan/assets/css/main_true.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app/rangedGrid.js",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/LetterListOpen/Index.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/Header/Default.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Main/Index.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/DestituteItemTemplate/Default.cshtml",
+		"/Users/ernestbrugger/Downloads/untitled.html",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Letter/SquareQuery.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Layouts/LettersListLayout.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/app_1.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/fonts.scss",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/app_convert.scss",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/app.scss",
+		"/Users/ernestbrugger/Desktop/difs_87_91/04_09_18/gbox_VGTRK_place36.html",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/sftp-config.json",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/out/app_out.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Components/MetaCss/Default.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/normalize-css/normalize.css",
+		"/var/folders/9g/612ct5zs4hb3yk1yql54n0v80000gp/T/DMDF119837A-B46A-41FA-9275-30E7A3258EEB/С_чистого_листа.png",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/test_url.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/test_url.scss",
+		"/Users/ernestbrugger/gulp_test/app/sass/app.scss",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/test.scss",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/test.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app.js",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/app.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/stylus/app.styl",
+		"/Users/ernestbrugger/Library/Application Support/Sublime Text 3/Packages/User/PackageResourceViewer.sublime-settings",
+		"/Users/ernestbrugger/Library/Application Support/Sublime Text 3/Packages/User/MySnippets.sublime-settings",
+		"/Users/ernestbrugger/Desktop/difs_87_91/https-::admin-dev.rufond.ru:GBoxDesign:Edit:39?isModal=False.html",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Components/DonationCompact/Default.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/ui3_uikit.css",
+		"/Users/ernestbrugger/Desktop/difs_87_91/23_08_18/enter_2.html",
+		"/var/folders/9g/612ct5zs4hb3yk1yql54n0v80000gp/T/tmp_image.png",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app/tabs.js",
+		"/Users/ernestbrugger/Desktop/difs_87_91/26_08_18/app.css",
+		"/Users/ernestbrugger/Desktop/difs_87_91/26_08_18/sftp-config.json",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/scss/app_1.scss",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app/tbox.js",
+		"/Users/ernestbrugger/Desktop/difs_87_91/24_08_18/app.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Sberbank/Currency.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Rbk/Currency.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Alfabank/Currency.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Shared/Currency.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/CloudPayments/Currency.cshtml",
+		"/Users/ernestbrugger/Desktop/difs_87_91/23_08_18/enter_1.html",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Shared/AddPaymentForm.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Shared/CloudPaymentsCurrency.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Shared/PayPalCurrency.cshtml",
+		"/Users/ernestbrugger/Desktop/difs_87_91/23_08_18/form-compact-others.html",
+		"/Users/ernestbrugger/Desktop/difs_87_91/23_08_18/enter.html",
+		"/Users/ernestbrugger/Desktop/difs_87_91/23_08_18/our_programs_gbox.html",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Components/Scripts/Default.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Payments/Index.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Main/Index.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Minzdrav/Details.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/Report/Index.cshtml",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/selectric.css",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app/bar.js",
+		"/Users/ernestbrugger/Desktop/difs_87_91/21_08_18/gbox_top_mobile_old.html",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/main.js",
+		"/Users/ernestbrugger/Desktop/difs_87_91/14_08_18/top_gbox_slider_final_1.html",
+		"/Users/ernestbrugger/Desktop/difs_87_91/14_08_18/top_gbox_slider_final_2.html",
+		"/Users/ernestbrugger/Desktop/difs_87_91/14_08_18/top_gbox_slider_alexey.html",
+		"/Users/ernestbrugger/Desktop/difs_87_91/20_08_18/<div class=\"top_news_right {{GBox.Title}}\">",
+		"/Users/ernestbrugger/Library/Application Support/Sublime Text 3/Packages/My Snippets/MySnippets.sublime-settings",
+		"/Users/ernestbrugger/Library/Application Support/Sublime Text 3/Packages/CSS Media Query Snippets/README.md",
+		"/Users/ernestbrugger/Library/Application Support/Sublime Text 3/Packages/CSS Media Query Snippets/media query desktop laptop.sublime-snippet",
+		"/Users/ernestbrugger/Library/Application Support/Sublime Text 3/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Views/GBox/YouHelpedThanks.cshtml",
+		"/Users/ernestbrugger/Desktop/difs_87_91/13_08_19/DonationCompact:Default.cshtml",
+		"/Users/ernestbrugger/Desktop/difs_87_91/13_08_19/DonationCompact:Default_merge.html",
+		"/Users/ernestbrugger/rusfond.site2017/Rusfond.Site2017/Components/JournalismAndColumnistIndex/Default.cshtml",
+		"/Users/ernestbrugger/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/erbrugger/Desktop/difs_87_91/26_07_18/<form id=\"subscribtion_form\".html",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Main/Index.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/Header/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app.js",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/ui3_uikit.css",
+		"/Users/erbrugger/Downloads/mail.html",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/GBox/YouHelpedThanks.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Components/JournalismAndColumnistIndex/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app/range.js",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Layouts/_Layout.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Components/DonationCompact/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/DestituteSliderHolder/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/MetaCss/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/DonationCompact/Default.cshtml",
+		"/Users/erbrugger/Documents/new_RF_emails/new_RF_email.html",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Components/Rdkm/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/app.css",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/ui3_custom.css",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/DestituteItemTemplate/UI3.cshtml",
+		"/Users/erbrugger/Desktop/difs_87_91/13_08_18/письмо для рассылки_Люда_final.html",
+		"/Users/erbrugger/Desktop/difs_87_91/13_08_18/письмо для рассылки Люды.twig",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Report/Index.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/ReportDestitutes/Index.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Archive/Index.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/uikit.min.css",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/GallerySlider.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/main.js",
+		"/Users/erbrugger/Desktop/difs_87_91/08_06_18/domik_footpattern.html",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/libs/uikit-icons.min.js",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/libs/uikit.min.js",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/registr_slider_main.css",
+		"/Users/erbrugger/Downloads/uikit-3.0.0-rc.5/js/uikit.min.js",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/Scripts/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app/rangedSlider.js",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/sftp-config.json",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Components/PaymentCollection/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Shared/PayPalCurrency.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Shared/Currency.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Areas/Donation/Views/Shared/CloudPaymentsCurrency.cshtml",
+		"/Users/erbrugger/Desktop/difs_87_91/04_06_18/публицистика_Gbox_на_главной.html",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/DestituteItemTemplate/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/scripts/redesign/app/rangedGrid.js",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Components/DestituteCollection/Default.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Article/Details.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/91.224.52.31%3a9097/css/redesign/app.css%3fv=6V9t2jzBDIhfqgzYN2GIZfdQ1WCfbYu2wb9Xn_VSy74",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/pure/pure-min.css",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/GBox/Rdkm.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/GBox/Tv1Action.cshtml",
+		"/Users/erbrugger/Desktop/difs_87_91/21_05_18/<div class=\"vgtrk\">_gbox.html",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Destitute/Card.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Destitute/Description.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/Views/Shared/Destitute/DoctorComment.cshtml",
+		"/Users/erbrugger/rusfond.site2017/Rusfond.Site2017/wwwroot/css/redesign/dhtmlxcalendar.css",
+		"/Users/erbrugger/Desktop/difs_87_91/10_05_18/https-::admin.rufond.ru:GBoxPlace:Edit:870?isModal=False.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7604,
+						"regions":
+						{
+							"col_22889944":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										6621,
+										6626
+									]
+								],
+								"scope": "col_22889944"
+							},
+							"col_22889944_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_22889944_circle.png",
+								"regions":
+								[
+									[
+										6586,
+										6586
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 205,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Liquid/Syntaxes/Liquid-HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 104.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 24.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/Titanium Build/Titanium.sublime-build",
+	"project": "RDKM_Kazyan.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Components/DestituteItemTemplate/Default",
+				"Views/Shared/Components/DestituteItemTemplate/Default.cshtml"
+			],
+			[
+				"rangedGrid",
+				"wwwroot/scripts/redesign/app/rangedGrid.js"
+			],
+			[
+				"letters",
+				"Views/Letter/SquareQuery.cshtml"
+			],
+			[
+				"app.js",
+				"wwwroot/scripts/redesign/app.js"
+			],
+			[
+				"app",
+				"wwwroot/scripts/redesign/app.js"
+			],
+			[
+				"tabs",
+				"wwwroot/scripts/redesign/app/tabs.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/rusfond.site.pre2017/rusfond.site.pre2017.sublime-project"
+			]
+		],
+		"width": 712.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 714.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
