@@ -25,14 +25,24 @@
 
 			.icon {
 				border-radius: 100%;
-				border: solid 2px _palette(border);
 				cursor: default;
 				display: inline-block;
 				font-size: 2em;
 				height: 2.25em;
 				line-height: 2.25em;
 				text-align: center;
-				width: 2.25em;
+				width: 4em;
+    			height: 4em;
+
+    			.rdkm_logo {
+				    display: block;
+				    background-image: url(https://im0.rusfond.ru/pics/registr_site/images/registr_logo_circle_1.svg);
+				    background-repeat: no-repeat;
+				    background-size: 130px;
+				    background-position: -3px 1px;
+				    width: 4em;
+				    height: 4em;
+    			}
 			}
 		}
 
